@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:report xmlns:ns2="http://ru.asgubin.rsr.report/">
+    <ns2:chapter6>
+        <chapter_6_1>
+            <table_6_1_1>
+                <number>1.1</number>
+                <eqGroupText>Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ</eqGroupText>
+                <eqKKSList>
+                    <eqKKS>1TL18D02</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18D03</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18D01</eqKKS>
+                </eqKKSList>
+                <eventTextList>
+                    <eventText>Отказ на запуск</eventText>
+                </eventTextList>
+                <eventIdList>
+                    <eventId>1TL18D03--S</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18D02--S</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18D01--S</eventId>
+                </eventIdList>
+                <eventModelList>
+                    <eventModel>Периодически контролируемый</eventModel>
+                </eventModelList>
+                <missionTimeList>
+                    <missionTime>-</missionTime>
+                </missionTimeList>
+                <probabilityList>
+                    <probability>-</probability>
+                </probabilityList>
+                <failureRateList>
+                    <failureRate>FA-S</failureRate>
+                </failureRateList>
+                <testIntervalList>
+                    <testInterval>TI-720</testInterval>
+                </testIntervalList>
+            </table_6_1_1>
+            <table_6_1_1>
+                <number>1.2</number>
+                <eqGroupText>Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ</eqGroupText>
+                <eqKKSList>
+                    <eqKKS>1TL18D02</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18D03</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18D01</eqKKS>
+                </eqKKSList>
+                <eventTextList>
+                    <eventText>Отказ при работе</eventText>
+                </eventTextList>
+                <eventIdList>
+                    <eventId>1TL18D02--R</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18D01--R</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18D03--R</eventId>
+                </eventIdList>
+                <eventModelList>
+                    <eventModel>Время выполнения</eventModel>
+                </eventModelList>
+                <missionTimeList>
+                    <missionTime>MT-24</missionTime>
+                </missionTimeList>
+                <probabilityList>
+                    <probability>-</probability>
+                </probabilityList>
+                <failureRateList>
+                    <failureRate>FA-R</failureRate>
+                </failureRateList>
+                <testIntervalList>
+                    <testInterval>-</testInterval>
+                </testIntervalList>
+            </table_6_1_1>
+            <table_6_1_1>
+                <number>2.1</number>
+                <eqGroupText>Задвижка подачи воды на воздухоохладитель 1TL18W03</eqGroupText>
+                <eqKKSList>
+                    <eqKKS>1TL18S03</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18S01</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18S02</eqKKS>
+                </eqKKSList>
+                <eventTextList>
+                    <eventText>Отказ на открытие</eventText>
+                </eventTextList>
+                <eventIdList>
+                    <eventId>1TL18S03--O</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18S02--O</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18S01--O</eventId>
+                </eventIdList>
+                <eventModelList>
+                    <eventModel>Периодически контролируемый</eventModel>
+                </eventModelList>
+                <missionTimeList>
+                    <missionTime>-</missionTime>
+                </missionTimeList>
+                <probabilityList>
+                    <probability>-</probability>
+                </probabilityList>
+                <failureRateList>
+                    <failureRate>VM-O</failureRate>
+                </failureRateList>
+                <testIntervalList>
+                    <testInterval>TI-720</testInterval>
+                </testIntervalList>
+            </table_6_1_1>
+            <table_6_1_1>
+                <number>3.1</number>
+                <eqGroupText>Воздухоохладитель рециркуляционной сист. охлажд. воздуха помещ. промконтура САОЗ</eqGroupText>
+                <eqKKSList>
+                    <eqKKS>1TL18W03</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18W01</eqKKS>
+                </eqKKSList>
+                <eqKKSList>
+                    <eqKKS>1TL18W02</eqKKS>
+                </eqKKSList>
+                <eventTextList>
+                    <eventText>Течь</eventText>
+                </eventTextList>
+                <eventIdList>
+                    <eventId>1TL18W01--L</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18W03--L</eventId>
+                </eventIdList>
+                <eventIdList>
+                    <eventId>1TL18W02--L</eventId>
+                </eventIdList>
+                <eventModelList>
+                    <eventModel>Время выполнения</eventModel>
+                </eventModelList>
+                <missionTimeList>
+                    <missionTime>MT-24</missionTime>
+                </missionTimeList>
+                <probabilityList>
+                    <probability>-</probability>
+                </probabilityList>
+                <failureRateList>
+                    <failureRate>AC-F</failureRate>
+                </failureRateList>
+                <testIntervalList>
+                    <testInterval>-</testInterval>
+                </testIntervalList>
+            </table_6_1_1>
+        </chapter_6_1>
+        <chapter_6_2>
+            <table_6_2_1>
+                <id>1TL10ZZZ01--M</id>
+                <text>Неготовность из-за вывода в ремонт</text>
+                <distPar1>10,00</distPar1>
+                <mean>2,58E-04</mean>
+            </table_6_2_1>
+            <table_6_2_1>
+                <id>1TL10ZZZ02--M</id>
+                <text>Неготовность из-за вывода в ремонт</text>
+                <distPar1>10,00</distPar1>
+                <mean>2,58E-04</mean>
+            </table_6_2_1>
+        </chapter_6_2>
+    </ns2:chapter6>
+    <ns2:chapter7>
+        <chapter_7_1>
+            <table_7_1_1>
+                <id>1TL10ZZZ01--HE</id>
+                <text>Ошибка персонала при техобслуживании оборудования</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,30E-04</mean>
+            </table_7_1_1>
+            <table_7_1_1>
+                <id>1TL10ZZZ02--HE</id>
+                <text>Ошибка персонала при техобслуживании оборудования</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,30E-04</mean>
+            </table_7_1_1>
+            <table_7_1_1>
+                <id>1TL10ZZZ03--HE</id>
+                <text>Ошибка персонала при техобслуживании оборудования</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,30E-04</mean>
+            </table_7_1_1>
+        </chapter_7_1>
+        <chapter_7_2/>
+    </ns2:chapter7>
+    <ns2:chapter8>
+        <chapter_8_1>
+            <table_8_1_1>
+                <id>11HTF08_MAN_SB</id>
+                <text>Отказ канала дистанционного управления</text>
+                <distPar1>1,26</distPar1>
+                <mean>4,53E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>12HTF08_MAN_SB</id>
+                <text>Отказ канала дистанционного управления</text>
+                <distPar1>1,26</distPar1>
+                <mean>4,53E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>13HTF08_MAN_SB</id>
+                <text>Отказ канала дистанционного управления</text>
+                <distPar1>1,26</distPar1>
+                <mean>4,53E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1DV03</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>4,91E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1DW03</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>4,91E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1DX03</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>4,91E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1LV17</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>5,87E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1LW17</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>5,87E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>1LX17</id>
+                <text>Отказ электроснабжение</text>
+                <distPar1>5,00</distPar1>
+                <mean>5,85E-04</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>BV01</id>
+                <text>Отказ канала охлаждения</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,00E-03</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>BW01</id>
+                <text>Отказ канала охлаждения</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,00E-03</mean>
+            </table_8_1_1>
+            <table_8_1_1>
+                <id>BX01</id>
+                <text>Отказ канала охлаждения</text>
+                <distPar1>10,00</distPar1>
+                <mean>1,00E-03</mean>
+            </table_8_1_1>
+        </chapter_8_1>
+        <chapter_8_2>
+            <table_8_2_1>
+                <id>1TL18DZZ--R</id>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D01--R</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>1.7278506129514426E-4</mean>
+                    <model>4</model>
+                    <num>2</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ при работе</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D02--R</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>1.7278506129514426E-4</mean>
+                    <model>4</model>
+                    <num>4</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ при работе</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D03--R</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>1.7278506129514426E-4</mean>
+                    <model>4</model>
+                    <num>6</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ при работе</text>
+                    <type>5</type>
+                </events>
+                <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ при рабо</text>
+                <ccfModel>Альфа-фактор</ccfModel>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>ССF-RUN-2/3</id>
+                    <mean>0.02</mean>
+                    <median>0.012390137</median>
+                    <num>9</num>
+                    <p05>0.0024804687</p05>
+                    <p95>0.061914064</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+                    <type>47</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>CCF-RUN-3/3</id>
+                    <mean>0.005</mean>
+                    <median>0.0030981444</median>
+                    <num>12</num>
+                    <p05>6.191406E-4</p05>
+                    <p95>0.015478516</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+                    <type>48</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+            </table_8_2_1>
+            <table_8_2_1>
+                <id>1TL18DZZ--S</id>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D01--S</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>0.0025875268038362265</mean>
+                    <model>2</model>
+                    <num>3</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на запуск</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D02--S</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>0.0025875268038362265</mean>
+                    <model>2</model>
+                    <num>5</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на запуск</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18D03--S</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>0.0025875268038362265</mean>
+                    <model>2</model>
+                    <num>7</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на запуск</text>
+                    <type>5</type>
+                </events>
+                <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                <ccfModel>Альфа-фактор</ccfModel>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>ССF-DEM-2/3</id>
+                    <mean>0.04</mean>
+                    <median>0.024780273</median>
+                    <num>8</num>
+                    <p05>0.0049609374</p05>
+                    <p95>0.12402344</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов на требование из РБ-100</text>
+                    <type>47</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>CCF-DEM-3/3</id>
+                    <mean>0.01</mean>
+                    <median>0.006196289</median>
+                    <num>11</num>
+                    <p05>0.0012402344</p05>
+                    <p95>0.030957032</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов на требование из РБ-100</text>
+                    <type>48</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+            </table_8_2_1>
+            <table_8_2_1>
+                <id>1TL18SZZ--O</id>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18S01--O</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>1.5586380322929472E-4</mean>
+                    <model>2</model>
+                    <num>8</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на открытие</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18S02--O</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>1.5586380322929472E-4</mean>
+                    <model>2</model>
+                    <num>9</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на открытие</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18S03--O</id>
+                    <initEnabl>2</initEnabl>
+                    <mean>1.5586380322929472E-4</mean>
+                    <model>2</model>
+                    <num>10</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Отказ на открытие</text>
+                    <type>5</type>
+                </events>
+                <text>CCF. Задвижка подачи воды на воздухоохладитель 1TL18W03. Отказ на открытие</text>
+                <ccfModel>Альфа-фактор</ccfModel>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>VM-O-2/3</id>
+                    <mean>0.0122</mean>
+                    <median>0.0075585935</median>
+                    <num>7</num>
+                    <p05>0.0015112305</p05>
+                    <p95>0.03779297</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>0</tag>
+                    <text>Арматура с электроприводом. ООВ на открытие</text>
+                    <type>47</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>VM-O-3/3</id>
+                    <mean>0.00703</mean>
+                    <median>0.004355469</median>
+                    <num>10</num>
+                    <p05>8.7109377E-4</p05>
+                    <p95>0.021777343</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>0</tag>
+                    <text>Арматура с электроприводом. ООВ на открытие</text>
+                    <type>48</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+            </table_8_2_1>
+            <table_8_2_1>
+                <id>1TL18WZZ--L</id>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18W01--L</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>8.495639485772699E-5</mean>
+                    <model>4</model>
+                    <num>11</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Течь</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18W02--L</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>8.495639485772699E-5</mean>
+                    <model>4</model>
+                    <num>12</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Течь</text>
+                    <type>5</type>
+                </events>
+                <events>
+                    <approvedUid>0</approvedUid>
+                    <calcType>1</calcType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>1TL18W03--L</id>
+                    <initEnabl>0</initEnabl>
+                    <mean>8.495639485772699E-5</mean>
+                    <model>4</model>
+                    <num>13</num>
+                    <reviewUid>0</reviewUid>
+                    <state>0</state>
+                    <symbol>1</symbol>
+                    <tag>0</tag>
+                    <text>Течь</text>
+                    <type>5</type>
+                </events>
+                <text>CCF. Воздухоохладитель рециркуляционной сист. охлажд. воздуха помещ. промконтура САОЗ. Течь</text>
+                <ccfModel>Альфа-фактор</ccfModel>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>ССF-RUN-2/3</id>
+                    <mean>0.02</mean>
+                    <median>0.012390137</median>
+                    <num>9</num>
+                    <p05>0.0024804687</p05>
+                    <p95>0.061914064</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+                    <type>47</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+                <params>
+                    <approvedUid>0</approvedUid>
+                    <distPar1>5.0</distPar1>
+                    <distPar2>0.0</distPar2>
+                    <distPar3>0.0</distPar3>
+                    <distType>1</distType>
+                    <editDate>2023-03-09T00:00:00+03:00</editDate>
+                    <editUid>5</editUid>
+                    <flag>false</flag>
+                    <id>CCF-RUN-3/3</id>
+                    <mean>0.005</mean>
+                    <median>0.0030981444</median>
+                    <num>12</num>
+                    <p05>6.191406E-4</p05>
+                    <p95>0.015478516</p95>
+                    <reviewUid>0</reviewUid>
+                    <tag>-1</tag>
+                    <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+                    <type>48</type>
+                    <unit>0</unit>
+                    <varCoeff>0.0</varCoeff>
+                </params>
+            </table_8_2_1>
+        </chapter_8_2>
+    </ns2:chapter8>
+    <ns2:chapter10>
+        <table_10_1>
+            <type>Альфа-фактор 2</type>
+            <id>ССF-DEM-2/3</id>
+            <text>Рекомендуемые значения а-фактора для отказов на требование из РБ-100</text>
+            <mean>4,00E-02</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Альфа-фактор 3</type>
+            <id>VM-O-3/3</id>
+            <text>Арматура с электроприводом. ООВ на открытие</text>
+            <mean>7,03E-03</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Альфа-фактор 2</type>
+            <id>VM-O-2/3</id>
+            <text>Арматура с электроприводом. ООВ на открытие</text>
+            <mean>1,22E-02</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>LP_CV/CW_24</id>
+            <text>Отказ  электроснабжение от секций СV01, CW01 за 24 ч</text>
+            <mean>4,91E-04</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>LP_LX01_24</id>
+            <text>Отказ э/сн от LX01, LX02, LX03, LX04, LX06, LX07, LX10, LX15, LX16, LX17, LX20, LX21, LX25 за 24 ч</text>
+            <mean>5,85E-04</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>LP_LW04_24</id>
+            <text>Отказ э/сн от LW04, LW05, LW06, LW07, LW08, LW09, LW10, LW15, LW16, LW17, LW20, LW21, LW25 за 24 ч</text>
+            <mean>5,87E-04</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Альфа-фактор 3</type>
+            <id>CCF-RUN-3/3</id>
+            <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+            <mean>5,00E-03</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Интенсивность отказов, 1/час</type>
+            <id>AC-F</id>
+            <text>Холодильная машина. Отказ на выполнение функции</text>
+            <mean>3,54E-06</mean>
+            <distPar1>2,37</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>MNT--HE</id>
+            <text>Ошибка персонала при техобслуживании оборудования</text>
+            <mean>1,30E-04</mean>
+            <distPar1>10,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Альфа-фактор 3</type>
+            <id>CCF-DEM-3/3</id>
+            <text>Рекомендуемые значения а-фактора для отказов на требование из РБ-100</text>
+            <mean>1,00E-02</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>1TL18ZZZ--M</id>
+            <text>Неготовность из-за вывода в ремонт</text>
+            <mean>2,58E-04</mean>
+            <distPar1>10,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>BV01_BW01_ BX01</id>
+            <text>Отказ канала охлаждения</text>
+            <mean>1,00E-03</mean>
+            <distPar1>10,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>MAN_SB</id>
+            <text>Отказ канала дистанционного управление CБ</text>
+            <mean>4,53E-04</mean>
+            <distPar1>1,26</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Альфа-фактор 2</type>
+            <id>ССF-RUN-2/3</id>
+            <text>Рекомендуемые значения а-фактора для отказов при работе из РБ-100</text>
+            <mean>2,00E-02</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Интенсивность отказов, 1/час</type>
+            <id>VM-O</id>
+            <text>Арматура с электроприводом. Отказ на открытие</text>
+            <mean>4,33E-07</mean>
+            <distPar1>1,30</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Вероятность отказов, 1/треб</type>
+            <id>LP_LV03_24</id>
+            <text>Отказ э/сн от LV03, LV04, LV05, LV08, LV09, LV10, LV11, LV15, LV16, LV17, LV20, LV21, LV25 за 24 ч</text>
+            <mean>5,87E-04</mean>
+            <distPar1>5,00</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Интенсивность отказов, 1/час</type>
+            <id>FA-R</id>
+            <text>Вентилятор. Отказ при работе</text>
+            <mean>7,20E-06</mean>
+            <distPar1>1,95</distPar1>
+        </table_10_1>
+        <table_10_1>
+            <type>Интенсивность отказов, 1/час</type>
+            <id>FA-S</id>
+            <text>Вентилятор. Отказ на запуск</text>
+            <mean>7,20E-06</mean>
+            <distPar1>1,95</distPar1>
+        </table_10_1>
+    </ns2:chapter10>
+    <ns2:chapter12>
+        <chapter_12_1s>
+            <funcId>F1</funcId>
+            <funcText>Обеспечение поддержания нормируемой температуры воздуха в помещениях, где установлены насосы САОЗ</funcText>
+            <chapter_12_1_1>
+                <qBestApprox>8,22E-05</qBestApprox>
+                <table_12_1_1_1>
+                    <num>1</num>
+                    <probability>7,32E-05</probability>
+                    <contribution>89,13</contribution>
+                    <eventId>1TL18DZZ--S-ALL</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>2</num>
+                    <probability>3,20E-06</probability>
+                    <contribution>3,90</contribution>
+                    <eventId>1TL18SZZ--O-ALL</eventId>
+                    <eventText>CCF. Задвижка подачи воды на воздухоохладитель 1TL18W03. Отказ на открытие</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>3</num>
+                    <probability>2,52E-06</probability>
+                    <contribution>3,06</contribution>
+                    <eventId>1TL18DZZ--R-ALL</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ при рабо</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>4</num>
+                    <probability>1,24E-06</probability>
+                    <contribution>1,51</contribution>
+                    <eventId>1TL18WZZ--L-ALL</eventId>
+                    <eventText>CCF. Воздухоохладитель рециркуляционной сист. охлажд. воздуха помещ. промконтура САОЗ. Течь</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>5</num>
+                    <probability>2,26E-07</probability>
+                    <contribution>0,28</contribution>
+                    <eventId>1TL18D02--S</eventId>
+                    <eventText>Отказ на запуск</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>6</num>
+                    <probability>2,26E-07</probability>
+                    <contribution>0,28</contribution>
+                    <eventId>1TL18D01--S</eventId>
+                    <eventText>Отказ на запуск</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>7</num>
+                    <probability>2,26E-07</probability>
+                    <contribution>0,28</contribution>
+                    <eventId>1TL18D03--S</eventId>
+                    <eventText>Отказ на запуск</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>8</num>
+                    <probability>9,76E-08</probability>
+                    <contribution>0,12</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>BX01</eventId>
+                    <eventText>Отказ канала охлаждения</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>9</num>
+                    <probability>9,76E-08</probability>
+                    <contribution>0,12</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>BW01</eventId>
+                    <eventText>Отказ канала охлаждения</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>10</num>
+                    <probability>9,76E-08</probability>
+                    <contribution>0,12</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>BV01</eventId>
+                    <eventText>Отказ канала охлаждения</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>11</num>
+                    <probability>5,73E-08</probability>
+                    <contribution>0,07</contribution>
+                    <eventId>1LV17</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>12</num>
+                    <probability>5,73E-08</probability>
+                    <contribution>0,07</contribution>
+                    <eventId>1LW17</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>13</num>
+                    <probability>5,71E-08</probability>
+                    <contribution>0,07</contribution>
+                    <eventId>1LX17</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>14</num>
+                    <probability>4,79E-08</probability>
+                    <contribution>0,06</contribution>
+                    <eventId>1DW03</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>15</num>
+                    <probability>4,79E-08</probability>
+                    <contribution>0,06</contribution>
+                    <eventId>1DV03</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>16</num>
+                    <probability>4,79E-08</probability>
+                    <contribution>0,06</contribution>
+                    <eventId>1DX03</eventId>
+                    <eventText>Отказ электроснабжение</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>17</num>
+                    <probability>4,42E-08</probability>
+                    <contribution>0,05</contribution>
+                    <eventId>11HTF08_MAN_SB</eventId>
+                    <eventText>Отказ канала дистанционного управления</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>18</num>
+                    <probability>4,42E-08</probability>
+                    <contribution>0,05</contribution>
+                    <eventId>13HTF08_MAN_SB</eventId>
+                    <eventText>Отказ канала дистанционного управления</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>19</num>
+                    <probability>4,42E-08</probability>
+                    <contribution>0,05</contribution>
+                    <eventId>12HTF08_MAN_SB</eventId>
+                    <eventText>Отказ канала дистанционного управления</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>20</num>
+                    <probability>2,52E-08</probability>
+                    <contribution>0,03</contribution>
+                    <eventId>1TL10ZZZ03--M</eventId>
+                    <eventText>Неготовность из-за вывода в ремонт</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>21</num>
+                    <probability>2,52E-08</probability>
+                    <contribution>0,03</contribution>
+                    <eventId>1TL10ZZZ02--M</eventId>
+                    <eventText>Неготовность из-за вывода в ремонт</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>22</num>
+                    <probability>2,52E-08</probability>
+                    <contribution>0,03</contribution>
+                    <eventId>1TL10ZZZ01--M</eventId>
+                    <eventText>Неготовность из-за вывода в ремонт</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>23</num>
+                    <probability>1,60E-08</probability>
+                    <contribution>0,02</contribution>
+                    <eventId>1TL18D03--R</eventId>
+                    <eventText>Отказ при работе</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AA</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>24</num>
+                    <probability>1,60E-08</probability>
+                    <contribution>0,02</contribution>
+                    <eventId>1TL18D01--R</eventId>
+                    <eventText>Отказ при работе</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AC</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>25</num>
+                    <probability>1,60E-08</probability>
+                    <contribution>0,02</contribution>
+                    <eventId>1TL18D02--R</eventId>
+                    <eventText>Отказ при работе</eventText>
+                </table_12_1_1_1>
+                <table_12_1_1_1>
+                    <num>-</num>
+                    <probability>-</probability>
+                    <contribution>-</contribution>
+                    <eventId>1TL18DZZ--S-2AB</eventId>
+                    <eventText>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</eventText>
+                </table_12_1_1_1>
+            </chapter_12_1_1>
+            <chapter_12_1_2>
+                <uncsSummary>
+                    <f5th>1,36E-05</f5th>
+                    <f95th>2,45E-04</f95th>
+                    <highBound>3,12</highBound>
+                    <lowBound>5,76</lowBound>
+                    <mean>7,84E-05</mean>
+                    <median>4,88E-05</median>
+                </uncsSummary>
+            </chapter_12_1_2>
+            <chapter_12_1_3>
+                <beImp>
+                    <fc>8,91E-01</fc>
+                    <fv>8,91E-01</fv>
+                    <name>1TL18DZZ--S-ALL</name>
+                    <num>1</num>
+                    <rdf>9,20E+00</rdf>
+                    <rif>1,22E+04</rif>
+                    <sens>4,56E+01</sens>
+                    <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                    <value>7,32E-05</value>
+                </beImp>
+                <beImp>
+                    <fc>3,90E-02</fc>
+                    <fv>3,90E-02</fv>
+                    <name>1TL18SZZ--O-ALL</name>
+                    <num>2</num>
+                    <rdf>1,04E+00</rdf>
+                    <rif>1,22E+04</rif>
+                    <sens>1,40E+00</sens>
+                    <text>CCF. Задвижка подачи воды на воздухоохладитель 1TL18W03. Отказ на открытие</text>
+                    <value>3,20E-06</value>
+                </beImp>
+                <beImp>
+                    <fc>3,06E-02</fc>
+                    <fv>3,06E-02</fv>
+                    <name>1TL18DZZ--R-ALL</name>
+                    <num>3</num>
+                    <rdf>1,03E+00</rdf>
+                    <rif>1,22E+04</rif>
+                    <sens>1,31E+00</sens>
+                    <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ при рабо</text>
+                    <value>2,52E-06</value>
+                </beImp>
+                <beImp>
+                    <fc>1,51E-02</fc>
+                    <fv>1,51E-02</fv>
+                    <name>1TL18WZZ--L-ALL</name>
+                    <num>4</num>
+                    <rdf>1,02E+00</rdf>
+                    <rif>1,22E+04</rif>
+                    <sens>1,15E+00</sens>
+                    <text>CCF. Воздухоохладитель рециркуляционной сист. охлажд. воздуха помещ. промконтура САОЗ. Течь</text>
+                    <value>1,24E-06</value>
+                </beImp>
+                <beImp>
+                    <fc>6,93E-03</fc>
+                    <fv>6,93E-03</fv>
+                    <name>1TL18DZZ--S-2AC</name>
+                    <num>5</num>
+                    <rdf>1,01E+00</rdf>
+                    <rif>7,19E+01</rif>
+                    <sens>1,07E+00</sens>
+                    <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                    <value>9,76E-05</value>
+                </beImp>
+                <beImp>
+                    <fc>6,93E-03</fc>
+                    <fv>6,93E-03</fv>
+                    <name>1TL18DZZ--S-2AB</name>
+                    <num>6</num>
+                    <rdf>1,01E+00</rdf>
+                    <rif>7,19E+01</rif>
+                    <sens>1,07E+00</sens>
+                    <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                    <value>9,76E-05</value>
+                </beImp>
+                <beImp>
+                    <fc>6,92E-03</fc>
+                    <fv>6,92E-03</fv>
+                    <name>1TL18DZZ--S-2AA</name>
+                    <num>7</num>
+                    <rdf>1,01E+00</rdf>
+                    <rif>7,19E+01</rif>
+                    <sens>1,07E+00</sens>
+                    <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                    <value>9,76E-05</value>
+                </beImp>
+                <beImp>
+                    <fc>3,83E-03</fc>
+                    <fv>3,84E-03</fv>
+                    <name>1TL18D03--S</name>
+                    <num>8</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,04E+00</sens>
+                    <text>Отказ на запуск</text>
+                    <value>2,32E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>3,83E-03</fc>
+                    <fv>3,84E-03</fv>
+                    <name>1TL18D02--S</name>
+                    <num>9</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,04E+00</sens>
+                    <text>Отказ на запуск</text>
+                    <value>2,32E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>3,83E-03</fc>
+                    <fv>3,84E-03</fv>
+                    <name>1TL18D01--S</name>
+                    <num>10</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,04E+00</sens>
+                    <text>Отказ на запуск</text>
+                    <value>2,32E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>1,65E-03</fc>
+                    <fv>1,66E-03</fv>
+                    <name>BX01</name>
+                    <num>11</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,02E+00</sens>
+                    <text>Отказ канала охлаждения</text>
+                    <value>1,00E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>1,65E-03</fc>
+                    <fv>1,66E-03</fv>
+                    <name>BW01</name>
+                    <num>12</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,02E+00</sens>
+                    <text>Отказ канала охлаждения</text>
+                    <value>1,00E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>1,65E-03</fc>
+                    <fv>1,66E-03</fv>
+                    <name>BV01</name>
+                    <num>13</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,02E+00</sens>
+                    <text>Отказ канала охлаждения</text>
+                    <value>1,00E-03</value>
+                </beImp>
+                <beImp>
+                    <fc>9,67E-04</fc>
+                    <fv>9,72E-04</fv>
+                    <name>1LV17</name>
+                    <num>14</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>5,87E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>9,67E-04</fc>
+                    <fv>9,72E-04</fv>
+                    <name>1LW17</name>
+                    <num>15</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>5,87E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>9,64E-04</fc>
+                    <fv>9,69E-04</fv>
+                    <name>1LX17</name>
+                    <num>16</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>5,85E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>8,09E-04</fc>
+                    <fv>8,13E-04</fv>
+                    <name>1DX03</name>
+                    <num>17</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>4,91E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>8,09E-04</fc>
+                    <fv>8,13E-04</fv>
+                    <name>1DW03</name>
+                    <num>18</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>4,91E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>8,09E-04</fc>
+                    <fv>8,13E-04</fv>
+                    <name>1DV03</name>
+                    <num>19</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ электроснабжение</text>
+                    <value>4,91E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>7,46E-04</fc>
+                    <fv>7,50E-04</fv>
+                    <name>13HTF08_MAN_SB</name>
+                    <num>20</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ канала дистанционного управления</text>
+                    <value>4,53E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>7,46E-04</fc>
+                    <fv>7,50E-04</fv>
+                    <name>12HTF08_MAN_SB</name>
+                    <num>21</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ канала дистанционного управления</text>
+                    <value>4,53E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>7,46E-04</fc>
+                    <fv>7,50E-04</fv>
+                    <name>11HTF08_MAN_SB</name>
+                    <num>22</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,01E+00</sens>
+                    <text>Отказ канала дистанционного управления</text>
+                    <value>4,53E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>4,25E-04</fc>
+                    <fv>4,27E-04</fv>
+                    <name>1TL10ZZZ03--M</name>
+                    <num>23</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,00E+00</sens>
+                    <text>Неготовность из-за вывода в ремонт</text>
+                    <value>2,58E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>4,25E-04</fc>
+                    <fv>4,27E-04</fv>
+                    <name>1TL10ZZZ02--M</name>
+                    <num>24</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,00E+00</sens>
+                    <text>Неготовность из-за вывода в ремонт</text>
+                    <value>2,58E-04</value>
+                </beImp>
+                <beImp>
+                    <fc>4,25E-04</fc>
+                    <fv>4,27E-04</fv>
+                    <name>1TL10ZZZ01--M</name>
+                    <num>25</num>
+                    <rdf>1,00E+00</rdf>
+                    <rif>2,65E+00</rif>
+                    <sens>1,00E+00</sens>
+                    <text>Неготовность из-за вывода в ремонт</text>
+                    <value>2,58E-04</value>
+                </beImp>
+            </chapter_12_1_3>
+        </chapter_12_1s>
+    </ns2:chapter12>
+    <ns2:chapter13>
+        <conclusions>
+            <funcId>F1</funcId>
+            <funcText>Обеспечение поддержания нормируемой температуры воздуха в помещениях, где установлены насосы САОЗ</funcText>
+            <mean>8,22E-05</mean>
+            <highBound>менее</highBound>
+            <lowBound>более</lowBound>
+            <resultBound>высоком</resultBound>
+            <beImp>
+                <fc>8,91E-01</fc>
+                <fv>8,91E-01</fv>
+                <name>1TL18DZZ--S-ALL</name>
+                <num>1</num>
+                <rdf>9,20E+00</rdf>
+                <rif>1,22E+04</rif>
+                <sens>4,56E+01</sens>
+                <text>CCF. Вентилятор рециркуляционной сист. охлаждения воздуха помещений промконтура САОЗ. Отказ на запус</text>
+                <value>7,32E-05</value>
+            </beImp>
+        </conclusions>
+    </ns2:chapter13>
+</ns2:report>
